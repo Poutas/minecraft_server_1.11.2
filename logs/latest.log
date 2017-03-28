@@ -27,3 +27,17 @@
 [09:00:08] [Server thread/INFO]: Willis left the game
 [14:14:35] [Server thread/INFO]: Willis[/39.177.109.122:6104] logged in with entity id 68824 at (606.3000000119209, 62.0, 251.03101582302162)
 [14:14:35] [Server thread/INFO]: Willis joined the game
+[14:30:45] [Server thread/INFO]: Willis lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:30:45] [Server thread/INFO]: Willis left the game
+[14:30:45] [Server thread/INFO]: Willis[/39.177.109.122:5684] logged in with entity id 84087 at (613.8021808054916, 64.0, 255.07574201978235)
+[14:30:45] [Server thread/INFO]: Willis joined the game
+[14:32:12] [Server thread/INFO]: Willis lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:32:12] [Server thread/INFO]: Willis left the game
+[14:32:12] [Server thread/INFO]: Willis[/39.177.109.122:5769] logged in with entity id 85471 at (617.038631384483, 63.0, 245.75772038722806)
+[14:32:12] [Server thread/INFO]: Willis joined the game
+[14:33:23] [Server thread/INFO]: Willis lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:33:23] [Server thread/INFO]: Willis left the game
+[14:33:23] [Server thread/INFO]: Willis[/39.177.109.122:5840] logged in with entity id 86592 at (633.1238504118479, 64.0, 247.9864865863542)
+[14:33:23] [Server thread/INFO]: Willis joined the game
+[14:34:40] [Server thread/INFO]: Willis lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:34:40] [Server thread/INFO]: Willis left the game
