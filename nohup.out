@@ -155,3 +155,5 @@
 [08:54:57] [Server thread/INFO]: Willis joined the game
 [09:00:08] [Server thread/INFO]: Willis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [09:00:08] [Server thread/INFO]: Willis left the game
+[14:14:35] [Server thread/INFO]: Willis[/39.177.109.122:6104] logged in with entity id 68824 at (606.3000000119209, 62.0, 251.03101582302162)
+[14:14:35] [Server thread/INFO]: Willis joined the game
